@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-image: url(../img/bg3.png);
+    background-repeat: repeat;
+    width: 1680px;
+    height: 1000px;
+}
+
+.rectangle {
+    width: 45px;
+    height: 150px;
+    background: black;
+    margin-left: 29px;
+}
+
+.text {
+    position: absolute;
+    top: 73px;
+    left: 94px;
+}
+
+.cs {
+    font-size: 30px;
+}
+
+.en {
+    color: #c59c6e;
+    margin-top: 4px;
+}
+
+.pattern {
+    width: 48px;
+    height: 7px;
+    margin: 99px auto;
+    border-left: 36px solid transparent;
+    border-top: 48px solid #c69c6c;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    position: absolute;
+    top: 40px;
+    right: -4px;
+}
+
+.patterns {
+    width: 48px;
+    height: 7px;
+    margin: 99px auto;
+    border-left: 36px solid transparent;
+    border-top: 48px solid #c69c6c;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    position: absolute;
+    top: 40px;
+    right: -80px;
+}
+
+.right-content {
+    width: 341px;
+    position: absolute;
+    right: -242px;
+    top: 282px;
+}
+
+.one {
+    font-size: 25px;
+    width: 535px;
+}
